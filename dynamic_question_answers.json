@@ -1,4 +1,6 @@
-[
+{
+  "chiefJustice": "John G. Roberts Jr.",
+  "states": [
   {
     "state": "Alabama",
     "stateAbbr": "AL",
@@ -850,3 +852,4 @@
     ]
   }
 ]
+}
