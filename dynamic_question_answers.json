@@ -1,23 +1,23 @@
 {
   "chiefJustice": "John G. Roberts Jr.",
   "states": [
-  {
-    "state": "Alabama",
-    "stateAbbr": "AL",
-    "capital": "Montgomery",
-    "governor": "Kay Ivey",
-    "party": "Republican",
-    "senators": [
-      {
-        "name": "Katie Boyd Britt",
-        "party": "Republican"
-      },
-      {
-        "name": "Tommy Tuberville",
-        "party": "Republican"
-      }
-    ]
-  },
+    {
+      "state": "Alabama",
+      "stateAbbr": "AL",
+      "capital": "Montgomery",
+      "governor": "Kay Ivey",
+      "party": "Republican",
+      "senators": [
+        {
+          "name": "Katie Boyd Britt",
+          "party": "Republican"
+        },
+        {
+          "name": "Tommy Tuberville",
+          "party": "Republican"
+        }
+      ]
+    },
   {
     "state": "Alaska",
     "stateAbbr": "AK",
